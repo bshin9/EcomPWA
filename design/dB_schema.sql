@@ -18,7 +18,7 @@ INSERT INTO Products (ProductName, Category, ProductDescription, Images)
 	('Movado', 'Gold', 'Flashy, but shows class and elegance. Uses Swiss quartz movement and glass is made from sapphire.', 'img/movado.jpg'),
 	('Daniel Wellington', 'Leather', 'Black and simple design. Utilizes Japanese quartz movement along with a leather band.', 'img/dw.png'),
 	('Holzkern', 'Wood', 'This vibrant and beautiful wooden watch is unique. Made of teak wood and stainless blue steel.', 'img/wood.jpg'),
-	('Bulova', 'Gold', 'Classic Bulova watch. Gold stainless steel band with swarovski crystals around the face.', 'img/bulova.jpeg'),
+	('Bulova', 'Gold', 'Classic Bulova watch. Gold stainless steel band with swarovski crystals around the face.', 'img/bulova.jpg'),
 	('MVMT', 'Leather', 'Glass case made of hardened mineral crystal for enhanced durability.', 'img/mvmt.jpg'),
 	('Seiko', 'Rubber', 'Made with rose gold plating. Chronograph and uses japanese quartz movement.', 'img/seiko.jpg'),
 	('Tag Heuer', 'Steel', 'Stay classy with this Tag Heuer. Uses Swiss quartz movement and dial is made of sapphire.', 'img/tag.jpg'),

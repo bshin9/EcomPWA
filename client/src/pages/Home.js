@@ -42,7 +42,7 @@ class Home extends React.Component {
               </div>
               <div className="col-md-6">
                 <img
-                  src="img/gorilla.jpeg"
+                  src="img/gorilla.jpg"
                   className="img-fluid pic"
                   alt="proper"
                 />

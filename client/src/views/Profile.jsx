@@ -55,7 +55,7 @@ class Profile extends React.Component {
             <div className="col-md-3">
               <h3>Brian Shin</h3>
               <img
-                src="img/conoradd.jpeg"
+                src="img/conoradd.jpg"
                 alt=""
                 className="d-block img-fluid mb-3"
               />
