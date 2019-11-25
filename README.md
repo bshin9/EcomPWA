@@ -1,6 +1,6 @@
-# AUTHENTICATION APP
+# PROGRESSIVE WEB APP
 
-Created an authentication app using a cloned repo of our e-commerce application. I created a sign up and login. Then I created tokens that are used by the computer because it is the way the machines communicate. These tokens hide the user's password in order to make our app secure. After the user signs in, they are able to view the protected page.
+I add another depth to my e-commerce application by creating an mobile app that the user can download on their phone. This will allow the user to use this app offline. I have also taken the effort to ensure that accessibility, performance, best practices, and SEO are able to hold up for the PWA to work. 
 
 ## Languages Utilized
 
