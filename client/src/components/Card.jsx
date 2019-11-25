@@ -1,0 +1,23 @@
+import React from 'react';
+
+// Card component that is being called in the products to loop through
+const Card = ({ name, price, image, description }) => {
+    return (
+          <div className="card-main">
+            <div className="card-row">
+              <div className="card-container">
+                <div className="item-img">
+                  <img src={image} className="" alt="properwatches" />
+                </div>
+                <div className="card-body">
+                  <h2 className="strong">{name} ${price}</h2>
+                  <p className="card-text">{description}</p>
+                  <button className="buyBtn">Buy</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        );
+      }
+
+export default Card;
