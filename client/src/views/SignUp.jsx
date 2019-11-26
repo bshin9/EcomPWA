@@ -30,62 +30,62 @@ class SignUp extends React.Component {
   render() {
     const { name, email, password } = this.state.fields;
     return (
-        <div className="SignUp">
-          <div className="note">
-            <p>Sign Up Here!</p>
-          </div>
-          <form
-            onChange={this.onInputChange.bind(this)}
-            onSubmit={this.onFormSubmit.bind(this)}
-          >
-            <div className="form-content signup">
-              <div className="row">
-                <div className="col-md-6">
-                  <div className="form-group">
+      <div className="SignUp">
+        <div className="note">
+          <p>Sign Up Here!</p>
+        </div>
+        <form
+          onChange={this.onInputChange.bind(this)}
+          onSubmit={this.onFormSubmit.bind(this)}
+        >
+          <div className="form-content signup">
+            <div className="row">
+              <div className="col-md-6">
+                <div className="form-group">
                   <label htmlFor="name">Name</label>
-                    <input
-                      onChange={this.onInputChange.bind(this)}
-                      type="text"
-                      name="name"
-                      id="name"
-                      value={name}
-                      className="form-control"
-                    />
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="form-group">
-                  <label htmlFor="email">Email</label>
-                    <input
-                      onChange={this.onInputChange.bind(this)}
-                      type="text"
-                      name="email"
-                      id="email"
-                      value={email}
-                      className="form-control"
-                    />
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="form-group">
-                  <label htmlFor="password">Password</label>
-                    <input
-                      onChange={this.onInputChange.bind(this)}
-                      type="password"
-                      name="password"
-                      id="password"
-                      value={password}
-                      className="form-control"
-                    />
-                  </div>
+                  <input
+                    onChange={this.onInputChange.bind(this)}
+                    type="text"
+                    name="name"
+                    id="name"
+                    value={name}
+                    className="form-control"
+                  />
                 </div>
               </div>
-              <button type="submit" className="btnSubmit">
-                Submit
-              </button>
+              <div className="col-md-6">
+                <div className="form-group">
+                  <label htmlFor="email">Email</label>
+                  <input
+                    onChange={this.onInputChange.bind(this)}
+                    type="text"
+                    name="email"
+                    id="email"
+                    value={email}
+                    className="form-control"
+                  />
+                </div>
+              </div>
+              <div className="col-md-6">
+                <div className="form-group">
+                  <label htmlFor="password">Password</label>
+                  <input
+                    onChange={this.onInputChange.bind(this)}
+                    type="password"
+                    name="password"
+                    id="password"
+                    value={password}
+                    className="form-control"
+                  />
+                </div>
+              </div>
             </div>
-          </form>
-        </div>
+            <button type="submit" className="btnSubmit">
+              Submit
+            </button>
+          </div>
+        </form>
+      </div>
     );
   }
 }
