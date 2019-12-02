@@ -18,6 +18,10 @@ I add another depth to my e-commerce application by creating an mobile app that 
 
 <img width="1440" alt="properApp" src="https://user-images.githubusercontent.com/52217063/69979122-affa8880-14fb-11ea-92f4-e0347d5700e4.png">
 
+## App Icon on Phone
+
+<img width="123" alt="homeapp" src="https://user-images.githubusercontent.com/52217063/69980096-8b9fab80-14fd-11ea-8be7-d64e411dcfa0.png">
+
 ## USAGE
 
 Make sure to clone this repo in the directory of your choosing
