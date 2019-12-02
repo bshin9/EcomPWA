@@ -10,9 +10,9 @@ I add another depth to my e-commerce application by creating an mobile app that 
 * MongoDB Atlas
 * Bcrypt
 
-## ERD 
+## LightHouse Audit After Refactoring
 
-<img width="1440" alt="Screen Shot 2019-11-20 at 3 10 10 PM" src="https://user-images.githubusercontent.com/52217063/69274207-e228f380-0ba7-11ea-851b-5f73e98351ba.png">
+<img width="813" alt="lighthouseafter" src="https://user-images.githubusercontent.com/52217063/69978263-272f1d00-14fa-11ea-8ec2-b970f8c68475.png">
 
 ## USAGE
 
