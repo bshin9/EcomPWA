@@ -18,7 +18,7 @@ I add another depth to my e-commerce application by creating an mobile app that 
 
 Make sure to clone this repo in the directory of your choosing
 
-`git clone https://github.com/bshin9/React_Ecom.git`
+`git clone https://github.com/bshin9/EcomPWA`
 
 In the terminal, run this code in order to download all the node modules needed
 
