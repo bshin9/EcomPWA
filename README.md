@@ -14,6 +14,10 @@ I add another depth to my e-commerce application by creating an mobile app that 
 
 <img width="813" alt="lighthouseafter" src="https://user-images.githubusercontent.com/52217063/69978263-272f1d00-14fa-11ea-8ec2-b970f8c68475.png">
 
+## App Homepage
+
+<img width="1440" alt="properApp" src="https://user-images.githubusercontent.com/52217063/69979122-affa8880-14fb-11ea-92f4-e0347d5700e4.png">
+
 ## USAGE
 
 Make sure to clone this repo in the directory of your choosing
@@ -40,4 +44,4 @@ Please make sure to update tests as appropriate.
 This was created by Brian Shin.
 
 ## License
-[MIT](https://github.com/bshin9/AuthorizationApp/blob/master/LICENSE)
+[MIT](https://github.com/bshin9/EcomPWA/blob/master/LICENSE)
